@@ -22,7 +22,7 @@ use function rawurlencode;
 /**
  * This class was copied from the Symfony Framework, see the original copyright
  * notice above. The code is distributed subject to the license terms in
- * https://github.com/symfony/symfony/blob/ff0cf61278982539c49e467db9ab13cbd342f76d/LICENSE
+ * https://github.com/oldpak/symfony/blob/ff0cf61278982539c49e467db9ab13cbd342f76d/LICENSE
  */
 final class DoctrineProvider extends CacheProvider
 {
