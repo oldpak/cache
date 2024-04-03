@@ -26,7 +26,7 @@
         "mongodb/mongodb": "^1.1",
         "phpunit/phpunit": "^7.5 || ^8.5 || ^9.5",
         "predis/predis":   "~1.0",
-        "doctrine/coding-standard": "^9",
+        "oldpak/coding-standard": "^1.0",
         "psr/cache": "^1.0 || ^2.0 || ^3.0",
         "cache/integration-tests": "dev-master",
         "symfony/cache": "^4.4 || ^5.4 || ^6",
